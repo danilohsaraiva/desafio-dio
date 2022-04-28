@@ -12,14 +12,15 @@ Caso não conheça DIO, **[click aqui](https://www.dio.me/)**.
 
 ### **Conteúdo**
 
-Há neste repósitório duas pastas contendo anotação como aquelas que fazemos em sala de aula, que julgamos serem importantes e devem ser lembradas posteriormente.
+Há neste repósitório três pastas, duas delas contendo anotação como aquelas que fazemos em sala de aula, que julgamos serem importantes e devem ser lembradas posteriormente e outra contendo exercícios diversos.
 
-Pastas estas são:
+Pastas estas:
 
+exercicios<br>
 anotacoes-gerais.md<br>
 links-uteis.md
 
 
-*"Contribuições são bem vindas!"*
+
 
 
